@@ -19,12 +19,12 @@ app.use(bodyParser.json());
 
 // MongoDB connection
 mongoose.connect(process.env.MONGODB_URI)
-  .then(() => console.log('✅ MongoDB Connected'))
+  .then(() => console.log(' MongoDB Connected'))
   .catch((err) => console.error('❌ MongoDB connection error:', err));
 
 // Health check
 app.get('/', (req, res) => {
-  res.send('✅ Safe WebTrust API is running.');
+  res.send(' Safe WebTrust API is running.');
 });
 
 // Scan endpoint
@@ -133,5 +133,5 @@ app.post('/scamgpt', async (req, res) => {
 
 // Start server
 app.listen(PORT, () => {
-  console.log(`🚀 Server running on port ${PORT}`);
+  console.log(` Server running on port ${PORT}`);
 });
