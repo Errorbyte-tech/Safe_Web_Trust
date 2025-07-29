@@ -1,4 +1,4 @@
-# 🛡️ SAFE_WEB_TRUST
+# SAFE_WEB_TRUST
 *Empowering Safer Browsing Through Trust and Innovation*
 
 [![Version](https://img.shields.io/badge/version-v2.1.0-blue.svg)](https://github.com/Errorbyte-tech/Safe_Web_Trust/releases)
@@ -6,7 +6,7 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/Errorbyte-tech/Safe_Web_Trust/actions)
 [![Security](https://img.shields.io/badge/security-enhanced-red.svg)](https://github.com/Errorbyte-tech/Safe_Web_Trust/security)
 
-**🚀 Built With:**
+**Built With:**
 - React 18.2.0 + Vite 4.4.5
 - Node.js 18+ & Express 4.18.2
 - MongoDB Atlas 7.0
@@ -17,48 +17,48 @@
 
 ---
 
-## 📘 Overview
+## Overview
 
 **Safe_Web_Trust** is a cutting-edge, developer-focused platform designed to build secure, AI-powered browser extensions that assess website safety in real-time. Our solution combines a modern **React + Vite** frontend with a robust **Node.js/Express** backend, leveraging multiple AI services including **OpenAI GPT-4**, **Google Gemini**, and **Google Safe Browsing API** to deliver comprehensive link risk assessment, user feedback collection, and trust score overlays directly within the browser experience.
 
-### 🎯 Mission Statement
+### Mission Statement
 To create a safer internet ecosystem by providing real-time, AI-driven website safety assessments that empower users to make informed decisions about their online interactions.
 
 ---
 
-## 🔍 Core Features
+## Core Features
 
-### 🌐 **Real-Time Site Safety Overlay**
+### **Real-Time Site Safety Overlay**
 - Instantly displays trust levels and safety indicators on any website
 - Non-intrusive UI overlay with customizable positioning
 - Color-coded risk assessment (Green/Yellow/Red)
 - Detailed safety reports with actionable insights
 
-### ⚡ **Lightning-Fast Performance**
+### **Lightning-Fast Performance**
 - Optimized build pipeline with Vite for both development and production
 - Lazy loading and code splitting for minimal resource usage
 - Background processing to avoid UI blocking
 - CDN-optimized asset delivery
 
-### 🤖 **Advanced AI Risk Analysis**
+### **Advanced AI Risk Analysis**
 - **Multi-AI Approach**: Combines OpenAI GPT-4 and Google Gemini for comprehensive analysis
 - **Real-time Processing**: Sub-second response times for safety assessments
 - **Context Awareness**: Analyzes page content, domain reputation, and user behavior patterns
 - **Continuous Learning**: Improves accuracy through user feedback integration
 
-### 🔒 **Enterprise-Grade Security**
+### **Enterprise-Grade Security**
 - Express.js backend with helmet.js security middleware
 - MongoDB with encrypted connections and data encryption at rest
 - Rate limiting and DDoS protection
 - CORS policy enforcement and input sanitization
 
-### 🧠 **Community-Driven Trust Network**
+### **Community-Driven Trust Network**
 - User rating and reporting system
 - Crowdsourced safety intelligence
 - Reputation-based scoring algorithm
 - Anonymous feedback collection with privacy protection
 
-### 🧱 **Modular Architecture**
+### **Modular Architecture**
 - Cleanly separated UI components, background scripts, and backend logic
 - Plugin-based extension system for easy feature additions
 - RESTful API design for third-party integrations
@@ -66,7 +66,7 @@ To create a safer internet ecosystem by providing real-time, AI-driven website s
 
 ---
 
-## 🧰 Prerequisites
+## Prerequisites
 
 ### System Requirements
 - **Node.js**: v18.0.0 or higher
@@ -82,7 +82,7 @@ To create a safer internet ecosystem by providing real-time, AI-driven website s
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 ### 1. Repository Setup
 ```bash
@@ -156,7 +156,7 @@ VITE_VERSION=2.1.0
 
 ---
 
-## 🚀 Running the Project
+## Running the Project
 
 ### Development Mode
 
@@ -196,7 +196,7 @@ npm run build:prod
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Unit Tests
 ```bash
@@ -235,7 +235,7 @@ npm run test:memory
 
 ---
 
-## 📊 API Documentation
+## API Documentation
 
 ### Authentication Endpoints
 - `POST /api/auth/register` - User registration
@@ -259,7 +259,7 @@ npm run test:memory
 
 ---
 
-## 🔧 Configuration Options
+## Configuration Options
 
 ### Extension Settings
 ```javascript
@@ -306,7 +306,7 @@ module.exports = {
 
 ---
 
-## 🚦 Performance Metrics
+## Performance Metrics
 
 ### Current Benchmarks
 - **Response Time**: < 200ms average for safety assessments
@@ -323,7 +323,7 @@ module.exports = {
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 ### Development Workflow
 1. Fork the repository
@@ -340,14 +340,14 @@ module.exports = {
 
 ### Issue Reporting
 Please use our issue templates:
-- 🐛 Bug Report
-- 🚀 Feature Request
-- 📚 Documentation Update
-- 🔒 Security Vulnerability
+-  Bug Report
+-  Feature Request
+-  Documentation Update
+-  Security Vulnerability
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 ### Core Team - Way To Future
 - **[Nishant Ranjan](https://github.com/Errorbyte-tech)** - Lead Developer & Project Maintainer
@@ -358,11 +358,11 @@ Please use our issue templates:
 ### Community Contributors
 We appreciate all contributors! See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the full list.
 
-**🤝 PRs Welcome!** - Fork, contribute, and help make the web safer for everyone.
+** PRs Welcome!** - Fork, contribute, and help make the web safer for everyone.
 
 ---
 
-## 📈 Roadmap
+## Roadmap
 
 ### Version 2.2.0 (Q3 2025)
 - [ ] Firefox extension support
@@ -384,7 +384,7 @@ We appreciate all contributors! See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the f
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -396,23 +396,23 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🔗 Links & Resources
+## Links & Resources
 
-- **🌐 Website**: [https://safwebtrust.com](https://safwebtrust.com)
-- **📖 Documentation**: [https://docs.safwebtrust.com](https://docs.safwebtrust.com)
-- **🐛 Issues**: [GitHub Issues](https://github.com/Errorbyte-tech/Safe_Web_Trust/issues)
-- **💬 Discord**: [Join our community](https://discord.gg/safwebtrust)
-- **🐦 Twitter**: [@SafeWebTrust](https://twitter.com/SafeWebTrust)
+- **Website**: [https://safwebtrust.com](https://safwebtrust.com)
+- **Documentation**: [https://docs.safwebtrust.com](https://docs.safwebtrust.com)
+- **Issues**: [GitHub Issues](https://github.com/Errorbyte-tech/Safe_Web_Trust/issues)
+- **Discord**: [Join our community](https://discord.gg/safwebtrust)
+- **Twitter**: [@SafeWebTrust](https://twitter.com/SafeWebTrust)
 
 ---
 
-## 📞 Support
+## Support
 
 ### Get Help
-- 📧 Email: support@safwebtrust.com
-- 💬 Discord: #support channel
-- 📋 GitHub Issues: Technical problems
-- 📚 Wiki: [Comprehensive guides](https://github.com/Errorbyte-tech/Safe_Web_Trust/wiki)
+- Email: support@safwebtrust.com
+- Discord: #support channel
+- GitHub Issues: Technical problems
+- Wiki: [Comprehensive guides](https://github.com/Errorbyte-tech/Safe_Web_Trust/wiki)
 
 ### Enterprise Support
 For enterprise licensing and custom implementations, contact: enterprise@safwebtrust.com
@@ -423,7 +423,7 @@ For enterprise licensing and custom implementations, contact: enterprise@safwebt
 
 **Made with ❤️ by the Team Way To Future!**
 
-**Star us on GitHub if this project helped you!** 
+ **Star us on GitHub if this project helped you!** 
 
 [![GitHub stars](https://img.shields.io/github/stars/Errorbyte-tech/Safe_Web_Trust.svg?style=social&label=Star)](https://github.com/Errorbyte-tech/Safe_Web_Trust)
 [![GitHub forks](https://img.shields.io/github/forks/Errorbyte-tech/Safe_Web_Trust.svg?style=social&label=Fork)](https://github.com/Errorbyte-tech/Safe_Web_Trust/fork)
