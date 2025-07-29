@@ -349,11 +349,11 @@ Please use our issue templates:
 
 ## 👥 Contributors
 
-### Core Team
-- **👨‍💻 [Nishant Ranjan](https://github.com/Errorbyte-tech)** - Lead Developer & Project Maintainer
-- **🎨 Anirudh Jakhotia** - UI/UX Design Lead & User Experience
-- **🔒 Puru Gupta** - Security Analysis & Penetration Testing Lead
-- **🤖 Abhijeet Srivastava & Tanishque Gill** - Machine Learning & Algorithm Development
+### Core Team - Way To Future
+- **[Nishant Ranjan](https://github.com/Errorbyte-tech)** - Lead Developer & Project Maintainer
+- **Anirudh Jakhotia** - UI/UX Design Lead & User Experience
+- **Puru Gupta** - Security Analysis & Penetration Testing Lead
+- **Abhijeet Srivastava & Tanishque Gill** - Machine Learning & Algorithm Development
 
 ### Community Contributors
 We appreciate all contributors! See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the full list.
@@ -421,9 +421,9 @@ For enterprise licensing and custom implementations, contact: enterprise@safwebt
 
 <div align="center">
 
-**Made with ❤️ by the Safe Web Trust Team**
+**Made with ❤️ by the Team Way To Future!**
 
-⭐ **Star us on GitHub if this project helped you!** ⭐
+**Star us on GitHub if this project helped you!** 
 
 [![GitHub stars](https://img.shields.io/github/stars/Errorbyte-tech/Safe_Web_Trust.svg?style=social&label=Star)](https://github.com/Errorbyte-tech/Safe_Web_Trust)
 [![GitHub forks](https://img.shields.io/github/forks/Errorbyte-tech/Safe_Web_Trust.svg?style=social&label=Fork)](https://github.com/Errorbyte-tech/Safe_Web_Trust/fork)
